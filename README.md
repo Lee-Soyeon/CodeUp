@@ -16,6 +16,6 @@
 
 ### 3101 ~ : 기본 자료구조(STL : stack, queue, list,  vector, set, map 등)
 ### 3201 ~ : 트리 & 그래프 등
-### 3301 ~ : 욕심쟁이 기법
+### 3301 ~ : 그리디
 ### 3401 ~  : DFS, BFS, 백트래킹, 분할정복 등
 ### 3701 ~ : Dynamic Programming
