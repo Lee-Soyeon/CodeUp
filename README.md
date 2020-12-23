@@ -12,6 +12,7 @@
 * [3002번 - 기억력 테스트 3](https://github.com/Lee-Soyeon/CodeUp/blob/main/3002.md)
 * [3004번 - 데이터 재정렬](https://github.com/Lee-Soyeon/CodeUp/blob/main/3004.md)
 * [3005번 - 최소공배수](https://github.com/Lee-Soyeon/CodeUp/blob/main/3005.md)
+* [3007번 - 기억력 테스트 7](https://github.com/Lee-Soyeon/CodeUp/blob/main/3007.md)
 
 ### 3101 ~ : 기본 자료구조(STL : stack, queue, list,  vector, set, map 등)
 ### 3201 ~ : 트리 & 그래프 등
