@@ -6,6 +6,7 @@
 
 * [2009번 - 아메리카노](https://github.com/Lee-Soyeon/CodeUp/blob/main/2009.md)
 * [2010번 - 루트 문제](https://github.com/Lee-Soyeon/CodeUp/blob/main/2010.md)
+* [2011번 - 369 게임 2](https://github.com/Lee-Soyeon/CodeUp/blob/main/2011.md)
 
 ## 3001~	자료구조, 알고리즘, 문제해결전략 
 
