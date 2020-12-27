@@ -9,6 +9,7 @@
 * [2011번 - 369 게임 2](https://github.com/Lee-Soyeon/CodeUp/blob/main/2011.md)
 * [2016번 - 천단위 구분기호](https://github.com/Lee-Soyeon/CodeUp/blob/main/2016.md)
 * [2017번 - 진법 변환](https://github.com/Lee-Soyeon/CodeUp/blob/main/2017.md)
+* [2018번 - 개미 수열](https://github.com/Lee-Soyeon/CodeUp/blob/main/2018.md)
 
 ## 3001~	자료구조, 알고리즘, 문제해결전략 
 
